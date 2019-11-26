@@ -67,7 +67,7 @@ end
 
 ###################################################
 
-puts "You can chechk the output in the files: "
+puts "You can check the output in the files: "
 puts "\t- genes.gff3"
 puts "\t- chromosomes.gff3"
 puts "\t- genes_without_target.txt"
